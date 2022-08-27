@@ -23,3 +23,4 @@ Na aba "Gráfico" mostra o resultado final:
 
 
  :warning: → IMPORTANTE: é indicado utilizar o Excel, pois foi utilizado para teste e suporta bem. Se utilizar outros aplicativos/programas alternativos ao Excel, a planilha poderá sofrer desconfiguração/modificação.
+##
